@@ -1,0 +1,10 @@
+C:\Users\ZakusiloDR\source\repos\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.csproj.AssemblyReference.cache
+C:\Users\ZakusiloDR\source\repos\Abstract Factory\Abstract Factory\obj\Debug\Abstract_Factory.Properties.Resources.resources
+C:\Users\ZakusiloDR\source\repos\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.csproj.GenerateResource.cache
+C:\Users\ZakusiloDR\source\repos\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.csproj.CoreCompileInputs.cache
+C:\Users\ZakusiloDR\source\repos\Abstract Factory\Abstract Factory\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\ZakusiloDR\source\repos\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.exe.config
+C:\Users\ZakusiloDR\source\repos\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.exe
+C:\Users\ZakusiloDR\source\repos\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.pdb
+C:\Users\ZakusiloDR\source\repos\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.exe
+C:\Users\ZakusiloDR\source\repos\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.pdb
